@@ -1,0 +1,582 @@
+2025-09-17 15:10:14,073 - WARNING - UNSPLASH_ACCESS_KEY not found in environment variables
+2025-09-17 15:10:14,073 - INFO - Starting RunSignUp race fetcher...
+2025-09-17 15:10:14,073 - INFO - Target states: WA, OR, CA
+2025-09-17 15:10:14,073 - INFO - Processing Washington (WA)
+2025-09-17 15:10:14,073 - INFO - Fetching races for Washington (WA) - page 1
+2025-09-17 15:10:15,028 - INFO - Processing 50 races from page 1
+2025-09-17 15:10:15,533 - INFO - Fetching races for Washington (WA) - page 2
+2025-09-17 15:10:15,988 - INFO - Processing 50 races from page 2
+2025-09-17 15:10:16,493 - INFO - Fetching races for Washington (WA) - page 3
+2025-09-17 15:10:17,042 - INFO - Processing 50 races from page 3
+2025-09-17 15:10:17,547 - INFO - Fetching races for Washington (WA) - page 4
+2025-09-17 15:10:18,199 - INFO - Processing 50 races from page 4
+2025-09-17 15:10:18,704 - INFO - Fetching races for Washington (WA) - page 5
+2025-09-17 15:10:19,202 - INFO - Processing 50 races from page 5
+2025-09-17 15:10:19,707 - INFO - Fetching races for Washington (WA) - page 6
+2025-09-17 15:10:20,160 - INFO - Processing 50 races from page 6
+2025-09-17 15:10:20,666 - INFO - Fetching races for Washington (WA) - page 7
+2025-09-17 15:10:21,006 - INFO - Processing 16 races from page 7
+2025-09-17 15:10:21,508 - INFO - Fetching races for Washington (WA) - page 8
+2025-09-17 15:10:21,646 - INFO - Processing Oregon (OR)
+2025-09-17 15:10:21,647 - INFO - Fetching races for Oregon (OR) - page 1
+2025-09-17 15:10:22,090 - INFO - Processing 50 races from page 1
+2025-09-17 15:10:22,596 - INFO - Fetching races for Oregon (OR) - page 2
+2025-09-17 15:10:23,095 - INFO - Processing 50 races from page 2
+2025-09-17 15:10:23,600 - INFO - Fetching races for Oregon (OR) - page 3
+2025-09-17 15:10:23,932 - INFO - Processing 33 races from page 3
+2025-09-17 15:10:24,433 - INFO - Fetching races for Oregon (OR) - page 4
+2025-09-17 15:10:24,574 - INFO - Processing California (CA)
+2025-09-17 15:10:24,574 - INFO - Fetching races for California (CA) - page 1
+2025-09-17 15:10:25,237 - INFO - Processing 50 races from page 1
+2025-09-17 15:10:25,742 - INFO - Fetching races for California (CA) - page 2
+2025-09-17 15:10:26,473 - INFO - Processing 50 races from page 2
+2025-09-17 15:10:26,978 - INFO - Fetching races for California (CA) - page 3
+2025-09-17 15:10:27,702 - INFO - Processing 50 races from page 3
+2025-09-17 15:10:28,206 - INFO - Fetching races for California (CA) - page 4
+2025-09-17 15:10:28,725 - INFO - Processing 50 races from page 4
+2025-09-17 15:10:29,230 - INFO - Fetching races for California (CA) - page 5
+2025-09-17 15:10:29,689 - INFO - Processing 50 races from page 5
+2025-09-17 15:10:30,191 - INFO - Fetching races for California (CA) - page 6
+2025-09-17 15:10:30,876 - INFO - Processing 50 races from page 6
+2025-09-17 15:10:31,381 - INFO - Fetching races for California (CA) - page 7
+2025-09-17 15:10:32,210 - INFO - Processing 50 races from page 7
+2025-09-17 15:10:32,716 - INFO - Fetching races for California (CA) - page 8
+2025-09-17 15:10:33,541 - INFO - Processing 50 races from page 8
+2025-09-17 15:10:34,046 - INFO - Fetching races for California (CA) - page 9
+2025-09-17 15:10:34,661 - INFO - Processing 50 races from page 9
+2025-09-17 15:10:35,167 - INFO - Fetching races for California (CA) - page 10
+2025-09-17 15:10:35,999 - INFO - Processing 50 races from page 10
+2025-09-17 15:10:36,505 - INFO - Fetching races for California (CA) - page 11
+2025-09-17 15:10:37,127 - INFO - Processing 50 races from page 11
+2025-09-17 15:10:37,629 - INFO - Fetching races for California (CA) - page 12
+2025-09-17 15:10:38,472 - INFO - Processing 50 races from page 12
+2025-09-17 15:10:38,978 - INFO - Fetching races for California (CA) - page 13
+2025-09-17 15:10:39,585 - INFO - Processing 50 races from page 13
+2025-09-17 15:10:40,088 - INFO - Fetching races for California (CA) - page 14
+2025-09-17 15:10:40,679 - INFO - Processing 50 races from page 14
+2025-09-17 15:10:41,183 - INFO - Fetching races for California (CA) - page 15
+2025-09-17 15:10:41,823 - INFO - Processing 50 races from page 15
+2025-09-17 15:10:42,326 - INFO - Fetching races for California (CA) - page 16
+2025-09-17 15:10:42,962 - INFO - Processing 50 races from page 16
+2025-09-17 15:10:43,465 - INFO - Fetching races for California (CA) - page 17
+2025-09-17 15:10:44,394 - INFO - Processing 50 races from page 17
+2025-09-17 15:10:44,900 - INFO - Fetching races for California (CA) - page 18
+2025-09-17 15:10:45,829 - INFO - Processing 50 races from page 18
+2025-09-17 15:10:46,335 - INFO - Fetching races for California (CA) - page 19
+2025-09-17 15:10:46,955 - INFO - Processing 50 races from page 19
+2025-09-17 15:10:47,458 - INFO - Fetching races for California (CA) - page 20
+2025-09-17 15:10:48,171 - INFO - Processing 50 races from page 20
+2025-09-17 15:10:48,676 - INFO - Fetching races for California (CA) - page 21
+2025-09-17 15:10:49,409 - INFO - Processing 50 races from page 21
+2025-09-17 15:10:49,911 - INFO - Fetching races for California (CA) - page 22
+2025-09-17 15:10:50,437 - INFO - Processing 50 races from page 22
+2025-09-17 15:10:50,943 - INFO - Fetching races for California (CA) - page 23
+2025-09-17 15:10:51,457 - INFO - Processing 50 races from page 23
+2025-09-17 15:10:51,962 - INFO - Fetching races for California (CA) - page 24
+2025-09-17 15:10:52,773 - INFO - Processing 50 races from page 24
+2025-09-17 15:10:53,278 - INFO - Fetching races for California (CA) - page 25
+2025-09-17 15:10:53,896 - INFO - Processing 50 races from page 25
+2025-09-17 15:10:54,399 - INFO - Fetching races for California (CA) - page 26
+2025-09-17 15:10:54,784 - INFO - Processing 11 races from page 26
+2025-09-17 15:10:55,289 - INFO - Fetching races for California (CA) - page 27
+2025-09-17 15:10:55,653 - INFO - Total races found: 1710
+2025-09-17 15:10:55,653 - INFO - Future races: 1710
+2025-09-17 15:10:55,687 - INFO - Saved 1710 races to races.json
+2025-09-17 15:10:55,688 - INFO - Race fetching completed successfully!
+2025-09-17 15:11:23,379 - WARNING - UNSPLASH_ACCESS_KEY not found in environment variables
+2025-09-17 15:11:23,379 - INFO - Starting RunSignUp race fetcher...
+2025-09-17 15:11:23,379 - INFO - Target states: WA, OR, CA
+2025-09-17 15:11:23,379 - INFO - Processing Washington (WA)
+2025-09-17 15:11:23,379 - INFO - Fetching races for Washington (WA) - page 1
+2025-09-17 15:11:24,344 - INFO - Processing 50 races from page 1
+2025-09-17 15:11:24,345 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,345 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,345 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,345 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,345 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,345 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,345 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,345 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,345 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,346 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,346 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:24,851 - INFO - Fetching races for Washington (WA) - page 2
+2025-09-17 15:11:25,301 - INFO - Processing 50 races from page 2
+2025-09-17 15:11:25,301 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:25,302 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:25,302 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:25,302 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:25,302 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:25,302 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:25,303 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:25,806 - INFO - Fetching races for Washington (WA) - page 3
+2025-09-17 15:11:26,288 - INFO - Processing 50 races from page 3
+2025-09-17 15:11:26,288 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,288 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,288 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,288 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,289 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,289 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,289 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,289 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,289 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,289 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,290 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,290 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:26,795 - INFO - Fetching races for Washington (WA) - page 4
+2025-09-17 15:11:27,300 - INFO - Processing 50 races from page 4
+2025-09-17 15:11:27,301 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:27,301 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:27,302 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:27,302 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:27,302 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:27,302 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:27,303 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:27,303 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:27,804 - INFO - Fetching races for Washington (WA) - page 5
+2025-09-17 15:11:28,529 - INFO - Processing 50 races from page 5
+2025-09-17 15:11:28,529 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:28,530 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:28,530 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:28,530 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:28,530 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:28,531 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:28,531 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:28,531 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:28,531 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:28,531 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:29,033 - INFO - Fetching races for Washington (WA) - page 6
+2025-09-17 15:11:29,712 - INFO - Processing 50 races from page 6
+2025-09-17 15:11:29,712 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:29,712 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:29,712 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:29,713 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:29,713 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:29,713 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:29,713 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:30,217 - INFO - Fetching races for Washington (WA) - page 7
+2025-09-17 15:11:30,573 - INFO - Processing 16 races from page 7
+2025-09-17 15:11:30,573 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:30,573 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:30,573 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:30,573 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:30,573 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:30,573 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:30,573 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,079 - INFO - Fetching races for Washington (WA) - page 8
+2025-09-17 15:11:31,233 - INFO - Processing Oregon (OR)
+2025-09-17 15:11:31,234 - INFO - Fetching races for Oregon (OR) - page 1
+2025-09-17 15:11:31,719 - INFO - Processing 50 races from page 1
+2025-09-17 15:11:31,719 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,719 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,720 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,720 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,720 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,720 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,720 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,720 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,721 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,721 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,721 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,721 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:31,721 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,225 - INFO - Fetching races for Oregon (OR) - page 2
+2025-09-17 15:11:32,635 - INFO - Processing 50 races from page 2
+2025-09-17 15:11:32,635 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,635 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,635 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,636 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,636 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,636 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,636 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,636 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,637 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,637 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:32,637 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,142 - INFO - Fetching races for Oregon (OR) - page 3
+2025-09-17 15:11:33,545 - INFO - Processing 33 races from page 3
+2025-09-17 15:11:33,545 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,545 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,545 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,545 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,546 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,546 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,546 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,546 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,546 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,546 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:33,546 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,049 - INFO - Fetching races for Oregon (OR) - page 4
+2025-09-17 15:11:34,196 - INFO - Processing California (CA)
+2025-09-17 15:11:34,196 - INFO - Fetching races for California (CA) - page 1
+2025-09-17 15:11:34,757 - INFO - Processing 50 races from page 1
+2025-09-17 15:11:34,757 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,757 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,757 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,757 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,758 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,758 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,758 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,758 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,758 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,759 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,759 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,759 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,759 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,759 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,759 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,759 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,760 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,760 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:34,760 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:35,265 - INFO - Fetching races for California (CA) - page 2
+2025-09-17 15:11:35,796 - INFO - Processing 50 races from page 2
+2025-09-17 15:11:35,796 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:36,300 - INFO - Fetching races for California (CA) - page 3
+2025-09-17 15:11:36,761 - INFO - Processing 50 races from page 3
+2025-09-17 15:11:37,268 - INFO - Fetching races for California (CA) - page 4
+2025-09-17 15:11:37,715 - INFO - Processing 50 races from page 4
+2025-09-17 15:11:38,217 - INFO - Fetching races for California (CA) - page 5
+2025-09-17 15:11:38,676 - INFO - Processing 50 races from page 5
+2025-09-17 15:11:39,182 - INFO - Fetching races for California (CA) - page 6
+2025-09-17 15:11:39,862 - INFO - Processing 50 races from page 6
+2025-09-17 15:11:39,863 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:39,863 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:39,863 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:39,863 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:39,863 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:40,368 - INFO - Fetching races for California (CA) - page 7
+2025-09-17 15:11:41,058 - INFO - Processing 50 races from page 7
+2025-09-17 15:11:41,059 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,059 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,059 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,059 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,059 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,059 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,059 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,060 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:41,565 - INFO - Fetching races for California (CA) - page 8
+2025-09-17 15:11:42,270 - INFO - Processing 50 races from page 8
+2025-09-17 15:11:42,270 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,270 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,270 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,271 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,271 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,271 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,271 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,271 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,271 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,271 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,272 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,272 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,272 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,272 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,272 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,272 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,272 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,273 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,273 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,273 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,273 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,273 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,273 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,273 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,273 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,273 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,274 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,274 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,274 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:42,779 - INFO - Fetching races for California (CA) - page 9
+2025-09-17 15:11:43,580 - INFO - Processing 50 races from page 9
+2025-09-17 15:11:43,581 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,581 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,581 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,581 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,581 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,581 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,582 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,582 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,582 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,582 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,582 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:43,582 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,088 - INFO - Fetching races for California (CA) - page 10
+2025-09-17 15:11:44,643 - INFO - Processing 50 races from page 10
+2025-09-17 15:11:44,643 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,643 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,643 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,643 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,643 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,643 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,644 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:44,645 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,150 - INFO - Fetching races for California (CA) - page 11
+2025-09-17 15:11:45,690 - INFO - Processing 50 races from page 11
+2025-09-17 15:11:45,690 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,691 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,691 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,691 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,691 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,691 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,691 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,692 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,692 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,692 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,692 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,692 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,693 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,693 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,693 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,693 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,693 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,693 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,694 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,694 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,694 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,694 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:45,694 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,195 - INFO - Fetching races for California (CA) - page 12
+2025-09-17 15:11:46,859 - INFO - Processing 50 races from page 12
+2025-09-17 15:11:46,859 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,860 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,860 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,860 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,860 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,860 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,860 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,861 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,861 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,861 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,861 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,861 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,861 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:46,861 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,362 - INFO - Fetching races for California (CA) - page 13
+2025-09-17 15:11:47,986 - INFO - Processing 50 races from page 13
+2025-09-17 15:11:47,986 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,986 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,986 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,987 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,988 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,988 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,988 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,988 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,988 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,988 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,989 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:47,989 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:48,494 - INFO - Fetching races for California (CA) - page 14
+2025-09-17 15:11:49,111 - INFO - Processing 50 races from page 14
+2025-09-17 15:11:49,111 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,111 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,111 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,111 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,112 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,112 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,112 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,112 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,112 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,112 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,113 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,113 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,113 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,113 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,113 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,113 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,113 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,113 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:49,616 - INFO - Fetching races for California (CA) - page 15
+2025-09-17 15:11:50,239 - INFO - Processing 50 races from page 15
+2025-09-17 15:11:50,240 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:50,240 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:50,240 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:50,240 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:50,240 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:50,241 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:50,745 - INFO - Fetching races for California (CA) - page 16
+2025-09-17 15:11:51,575 - INFO - Processing 50 races from page 16
+2025-09-17 15:11:51,575 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,575 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,575 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,575 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,575 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,575 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,575 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:51,576 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,082 - INFO - Fetching races for California (CA) - page 17
+2025-09-17 15:11:52,903 - INFO - Processing 50 races from page 17
+2025-09-17 15:11:52,904 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,904 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,904 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,904 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,904 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,904 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,905 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,905 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,905 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,906 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,906 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,906 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,906 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,906 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:52,906 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:53,412 - INFO - Fetching races for California (CA) - page 18
+2025-09-17 15:11:54,131 - INFO - Processing 50 races from page 18
+2025-09-17 15:11:54,132 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:54,132 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:54,134 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:54,637 - INFO - Fetching races for California (CA) - page 19
+2025-09-17 15:11:55,358 - INFO - Processing 50 races from page 19
+2025-09-17 15:11:55,359 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,359 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,359 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,360 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,360 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,360 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,360 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,360 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,360 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,360 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,360 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,360 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:55,864 - INFO - Fetching races for California (CA) - page 20
+2025-09-17 15:11:56,586 - INFO - Processing 50 races from page 20
+2025-09-17 15:11:56,587 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,587 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,587 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,587 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,587 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,587 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,587 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,587 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,588 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,588 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,588 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,588 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,588 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,588 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,588 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,589 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,589 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,589 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,589 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,589 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,589 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,589 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:56,589 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,090 - INFO - Fetching races for California (CA) - page 21
+2025-09-17 15:11:57,919 - INFO - Processing 50 races from page 21
+2025-09-17 15:11:57,919 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,919 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,919 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,919 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,920 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,920 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,920 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,920 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,920 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:57,921 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:58,425 - INFO - Fetching races for California (CA) - page 22
+2025-09-17 15:11:59,047 - INFO - Processing 50 races from page 22
+2025-09-17 15:11:59,047 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:59,047 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:59,047 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:59,048 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:59,048 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:59,048 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:11:59,550 - INFO - Fetching races for California (CA) - page 23
+2025-09-17 15:12:00,066 - INFO - Processing 50 races from page 23
+2025-09-17 15:12:00,567 - INFO - Fetching races for California (CA) - page 24
+2025-09-17 15:12:01,194 - INFO - Processing 50 races from page 24
+2025-09-17 15:12:01,194 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,194 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,194 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,194 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,195 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,195 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,195 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,195 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,195 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,195 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,195 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,196 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:01,702 - INFO - Fetching races for California (CA) - page 25
+2025-09-17 15:12:02,526 - INFO - Processing 50 races from page 25
+2025-09-17 15:12:02,527 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:02,527 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:02,527 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:02,527 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:02,528 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:02,528 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:02,528 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:02,528 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:02,528 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:02,528 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:03,034 - INFO - Fetching races for California (CA) - page 26
+2025-09-17 15:12:03,444 - INFO - Processing 11 races from page 26
+2025-09-17 15:12:03,445 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:03,445 - ERROR - Error transforming race data: 'NoneType' object has no attribute 'lower'
+2025-09-17 15:12:03,950 - INFO - Fetching races for California (CA) - page 27
+2025-09-17 15:12:04,296 - INFO - Total races found: 4516
+2025-09-17 15:12:04,297 - INFO - Future races: 4087
+2025-09-17 15:12:04,380 - INFO - Saved 4087 races to races.json
+2025-09-17 15:12:04,380 - INFO - Race fetching completed successfully!
