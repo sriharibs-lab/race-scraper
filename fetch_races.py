@@ -3,7 +3,7 @@
 RunSignUp API Race Fetcher
 
 Fetches running races from RunSignUp API for Washington, Oregon, and California.
-Includes Unsplash integration for city skyline images and comprehensive data transformation.
+Uses actual race images from RunSignUp API with fallback to default running image.
 """
 
 import requests
@@ -22,7 +22,7 @@ class RunSignUpRaceFetcher:
     def __init__(self):
         """Initialize the race fetcher."""
         self.base_url = "https://api.runsignup.com/rest/races"
-        self.unsplash_url = "https://api.unsplash.com/search/photos"
+        self.photos_url = "https://api.runsignup.com/rest/v2/photos/get-race-photos.json"
         
         # Configure logging
         logging.basicConfig(
@@ -49,10 +49,8 @@ class RunSignUpRaceFetcher:
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
         })
         
-        # Get Unsplash API key from environment
-        self.unsplash_key = os.getenv('UNSPLASH_ACCESS_KEY')
-        if not self.unsplash_key:
-            self.logger.warning("UNSPLASH_ACCESS_KEY not found in environment variables")
+        # Default running image for races without photos
+        self.default_image_url = "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&crop=center"
     
     def fetch_races_for_state(self, state: str, page: int = 1) -> Optional[Dict]:
         """Fetch races for a specific state and page."""
@@ -79,37 +77,21 @@ class RunSignUpRaceFetcher:
             self.logger.error(f"Error parsing JSON for {state} page {page}: {e}")
             return None
     
-    def get_city_image(self, city: str, state: str) -> str:
-        """Get city skyline image from Unsplash."""
-        if not self.unsplash_key:
-            return f"https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop&crop=center"
+    def get_race_image(self, race: Dict) -> str:
+        """Get race image from race data logo_url field.
         
-        try:
-            query = f"{city} {self.state_names[state]} skyline"
-            params = {
-                'query': query,
-                'per_page': 1,
-                'orientation': 'landscape'
-            }
-            headers = {
-                'Authorization': f'Client-ID {self.unsplash_key}'
-            }
-            
-            response = self.session.get(self.unsplash_url, params=params, headers=headers, timeout=10)
-            response.raise_for_status()
-            
-            data = response.json()
-            if data.get('results'):
-                return data['results'][0]['urls']['regular']
-            
-        except Exception as e:
-            self.logger.warning(f"Error fetching image for {city}, {state}: {e}")
-        
-        # Fallback image
-        return f"https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop&crop=center"
+        Uses the logo_url field from the race data if available,
+        otherwise falls back to the default running image.
+        """
+        logo_url = race.get('logo_url', '')
+        if logo_url and logo_url.strip():
+            return logo_url
+        return self.default_image_url
     
     def determine_difficulty(self, distance: str) -> str:
         """Determine difficulty level based on distance."""
+        if not distance:
+            return 'Moderate'
         distance_lower = distance.lower()
         
         if any(x in distance_lower for x in ['1k', '1 mile', '1mi', 'fun run', 'kids']):
@@ -157,8 +139,8 @@ class RunSignUpRaceFetcher:
             latitude = race.get('latitude', 0.0)
             longitude = race.get('longitude', 0.0)
             
-            # Get city image
-            image_url = self.get_city_image(city, state)
+            # Get race image from race data
+            image_url = self.get_race_image(race)
             
             # Process each event/distance
             for event in events:
@@ -294,7 +276,7 @@ def main():
     print("RunSignUp Race Fetcher")
     print("=" * 40)
     print("Fetching race data for Washington, Oregon, and California")
-    print("Using RunSignUp API with Unsplash integration")
+    print("Using RunSignUp API with actual race images")
     print()
     
     fetcher = RunSignUpRaceFetcher()
