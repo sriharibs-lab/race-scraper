@@ -2885,3 +2885,163 @@
 2025-09-18 23:02:16,579 - INFO - Future races: 5042
 2025-09-18 23:02:16,676 - INFO - Saved 5042 races to races.json
 2025-09-18 23:02:16,676 - INFO - Race fetching completed successfully!
+2025-10-10 21:57:02,287 - INFO - Starting RunSignUp race fetcher...
+2025-10-10 21:57:02,287 - INFO - Target states: WA, OR, CA
+2025-10-10 21:57:02,288 - INFO - Processing Washington (WA)
+2025-10-10 21:57:02,288 - INFO - Fetching races for Washington (WA) - page 1
+2025-10-10 21:57:03,168 - INFO - Processing 50 races from page 1
+2025-10-10 21:57:03,674 - INFO - Fetching races for Washington (WA) - page 2
+2025-10-10 21:57:04,296 - INFO - Processing 50 races from page 2
+2025-10-10 21:57:04,803 - INFO - Fetching races for Washington (WA) - page 3
+2025-10-10 21:57:05,322 - INFO - Processing 50 races from page 3
+2025-10-10 21:57:05,829 - INFO - Fetching races for Washington (WA) - page 4
+2025-10-10 21:57:06,347 - INFO - Processing 50 races from page 4
+2025-10-10 21:57:06,853 - INFO - Fetching races for Washington (WA) - page 5
+2025-10-10 21:57:07,388 - INFO - Processing 50 races from page 5
+2025-10-10 21:57:07,894 - INFO - Fetching races for Washington (WA) - page 6
+2025-10-10 21:57:08,435 - INFO - Processing 50 races from page 6
+2025-10-10 21:57:08,940 - INFO - Fetching races for Washington (WA) - page 7
+2025-10-10 21:57:09,628 - INFO - Processing 45 races from page 7
+2025-10-10 21:57:10,134 - INFO - Fetching races for Washington (WA) - page 8
+2025-10-10 21:57:10,304 - INFO - Processing Oregon (OR)
+2025-10-10 21:57:10,304 - INFO - Fetching races for Oregon (OR) - page 1
+2025-10-10 21:57:10,960 - INFO - Processing 50 races from page 1
+2025-10-10 21:57:11,468 - INFO - Fetching races for Oregon (OR) - page 2
+2025-10-10 21:57:11,978 - INFO - Processing 50 races from page 2
+2025-10-10 21:57:12,488 - INFO - Fetching races for Oregon (OR) - page 3
+2025-10-10 21:57:12,802 - INFO - Processing 23 races from page 3
+2025-10-10 21:57:13,309 - INFO - Fetching races for Oregon (OR) - page 4
+2025-10-10 21:57:13,474 - INFO - Processing California (CA)
+2025-10-10 21:57:13,474 - INFO - Fetching races for California (CA) - page 1
+2025-10-10 21:57:14,127 - INFO - Processing 50 races from page 1
+2025-10-10 21:57:14,634 - INFO - Fetching races for California (CA) - page 2
+2025-10-10 21:57:15,149 - INFO - Processing 50 races from page 2
+2025-10-10 21:57:15,655 - INFO - Fetching races for California (CA) - page 3
+2025-10-10 21:57:16,386 - INFO - Processing 50 races from page 3
+2025-10-10 21:57:16,892 - INFO - Fetching races for California (CA) - page 4
+2025-10-10 21:57:17,373 - INFO - Processing 50 races from page 4
+2025-10-10 21:57:17,879 - INFO - Fetching races for California (CA) - page 5
+2025-10-10 21:57:18,526 - INFO - Processing 50 races from page 5
+2025-10-10 21:57:19,032 - INFO - Fetching races for California (CA) - page 6
+2025-10-10 21:57:19,656 - INFO - Processing 50 races from page 6
+2025-10-10 21:57:20,163 - INFO - Fetching races for California (CA) - page 7
+2025-10-10 21:57:20,998 - INFO - Processing 50 races from page 7
+2025-10-10 21:57:21,505 - INFO - Fetching races for California (CA) - page 8
+2025-10-10 21:57:22,115 - INFO - Processing 50 races from page 8
+2025-10-10 21:57:22,622 - INFO - Fetching races for California (CA) - page 9
+2025-10-10 21:57:23,241 - INFO - Processing 50 races from page 9
+2025-10-10 21:57:23,745 - INFO - Fetching races for California (CA) - page 10
+2025-10-10 21:57:24,573 - INFO - Processing 50 races from page 10
+2025-10-10 21:57:25,079 - INFO - Fetching races for California (CA) - page 11
+2025-10-10 21:57:25,903 - INFO - Processing 50 races from page 11
+2025-10-10 21:57:26,410 - INFO - Fetching races for California (CA) - page 12
+2025-10-10 21:57:27,305 - INFO - Processing 50 races from page 12
+2025-10-10 21:57:27,813 - INFO - Fetching races for California (CA) - page 13
+2025-10-10 21:57:28,570 - INFO - Processing 50 races from page 13
+2025-10-10 21:57:29,077 - INFO - Fetching races for California (CA) - page 14
+2025-10-10 21:57:29,697 - INFO - Processing 50 races from page 14
+2025-10-10 21:57:30,202 - INFO - Fetching races for California (CA) - page 15
+2025-10-10 21:57:31,125 - INFO - Processing 50 races from page 15
+2025-10-10 21:57:31,630 - INFO - Fetching races for California (CA) - page 16
+2025-10-10 21:57:32,305 - INFO - Processing 50 races from page 16
+2025-10-10 21:57:32,814 - INFO - Fetching races for California (CA) - page 17
+2025-10-10 21:57:33,691 - INFO - Processing 50 races from page 17
+2025-10-10 21:57:34,199 - INFO - Fetching races for California (CA) - page 18
+2025-10-10 21:57:35,125 - INFO - Processing 50 races from page 18
+2025-10-10 21:57:35,632 - INFO - Fetching races for California (CA) - page 19
+2025-10-10 21:57:36,409 - INFO - Processing 50 races from page 19
+2025-10-10 21:57:36,916 - INFO - Fetching races for California (CA) - page 20
+2025-10-10 21:57:37,569 - INFO - Processing 50 races from page 20
+2025-10-10 21:57:38,075 - INFO - Fetching races for California (CA) - page 21
+2025-10-10 21:57:38,913 - INFO - Processing 50 races from page 21
+2025-10-10 21:57:39,418 - INFO - Fetching races for California (CA) - page 22
+2025-10-10 21:57:40,066 - INFO - Processing 50 races from page 22
+2025-10-10 21:57:40,573 - INFO - Fetching races for California (CA) - page 23
+2025-10-10 21:57:41,179 - INFO - Processing 50 races from page 23
+2025-10-10 21:57:41,686 - INFO - Fetching races for California (CA) - page 24
+2025-10-10 21:57:42,183 - INFO - Processing 12 races from page 24
+2025-10-10 21:57:42,688 - INFO - Fetching races for California (CA) - page 25
+2025-10-10 21:57:43,133 - INFO - Total races found: 5565
+2025-10-10 21:57:43,133 - INFO - Future races: 4895
+2025-10-10 21:57:43,222 - INFO - Saved 4895 races to races.json
+2025-10-10 21:57:43,222 - INFO - Race fetching completed successfully!
+2025-10-10 22:21:24,268 - INFO - Starting RunSignUp race fetcher...
+2025-10-10 22:21:24,268 - INFO - Target states: WA, OR, CA
+2025-10-10 22:21:24,268 - INFO - Processing Washington (WA)
+2025-10-10 22:21:24,268 - INFO - Fetching races for Washington (WA) - page 1
+2025-10-10 22:21:25,026 - INFO - Processing 50 races from page 1
+2025-10-10 22:21:25,531 - INFO - Fetching races for Washington (WA) - page 2
+2025-10-10 22:21:26,303 - INFO - Processing 50 races from page 2
+2025-10-10 22:21:26,809 - INFO - Fetching races for Washington (WA) - page 3
+2025-10-10 22:21:27,413 - INFO - Processing 50 races from page 3
+2025-10-10 22:21:27,920 - INFO - Fetching races for Washington (WA) - page 4
+2025-10-10 22:21:28,391 - INFO - Processing 50 races from page 4
+2025-10-10 22:21:28,898 - INFO - Fetching races for Washington (WA) - page 5
+2025-10-10 22:21:29,393 - INFO - Processing 50 races from page 5
+2025-10-10 22:21:29,900 - INFO - Fetching races for Washington (WA) - page 6
+2025-10-10 22:21:30,420 - INFO - Processing 50 races from page 6
+2025-10-10 22:21:30,927 - INFO - Fetching races for Washington (WA) - page 7
+2025-10-10 22:21:31,391 - INFO - Processing 45 races from page 7
+2025-10-10 22:21:31,897 - INFO - Fetching races for Washington (WA) - page 8
+2025-10-10 22:21:32,070 - INFO - Processing Oregon (OR)
+2025-10-10 22:21:32,070 - INFO - Fetching races for Oregon (OR) - page 1
+2025-10-10 22:21:32,523 - INFO - Processing 50 races from page 1
+2025-10-10 22:21:33,030 - INFO - Fetching races for Oregon (OR) - page 2
+2025-10-10 22:21:33,810 - INFO - Processing 50 races from page 2
+2025-10-10 22:21:34,319 - INFO - Fetching races for Oregon (OR) - page 3
+2025-10-10 22:21:34,620 - INFO - Processing 23 races from page 3
+2025-10-10 22:21:35,126 - INFO - Fetching races for Oregon (OR) - page 4
+2025-10-10 22:21:35,289 - INFO - Processing California (CA)
+2025-10-10 22:21:35,289 - INFO - Fetching races for California (CA) - page 1
+2025-10-10 22:21:35,961 - INFO - Processing 50 races from page 1
+2025-10-10 22:21:36,469 - INFO - Fetching races for California (CA) - page 2
+2025-10-10 22:21:37,189 - INFO - Processing 50 races from page 2
+2025-10-10 22:21:37,694 - INFO - Fetching races for California (CA) - page 3
+2025-10-10 22:21:38,213 - INFO - Processing 50 races from page 3
+2025-10-10 22:21:38,719 - INFO - Fetching races for California (CA) - page 4
+2025-10-10 22:21:39,193 - INFO - Processing 50 races from page 4
+2025-10-10 22:21:39,697 - INFO - Fetching races for California (CA) - page 5
+2025-10-10 22:21:40,259 - INFO - Processing 50 races from page 5
+2025-10-10 22:21:40,765 - INFO - Fetching races for California (CA) - page 6
+2025-10-10 22:21:41,388 - INFO - Processing 50 races from page 6
+2025-10-10 22:21:41,895 - INFO - Fetching races for California (CA) - page 7
+2025-10-10 22:21:42,662 - INFO - Processing 50 races from page 7
+2025-10-10 22:21:43,169 - INFO - Fetching races for California (CA) - page 8
+2025-10-10 22:21:43,933 - INFO - Processing 50 races from page 8
+2025-10-10 22:21:44,439 - INFO - Fetching races for California (CA) - page 9
+2025-10-10 22:21:45,074 - INFO - Processing 50 races from page 9
+2025-10-10 22:21:45,581 - INFO - Fetching races for California (CA) - page 10
+2025-10-10 22:21:46,408 - INFO - Processing 50 races from page 10
+2025-10-10 22:21:46,914 - INFO - Fetching races for California (CA) - page 11
+2025-10-10 22:21:47,734 - INFO - Processing 50 races from page 11
+2025-10-10 22:21:48,240 - INFO - Fetching races for California (CA) - page 12
+2025-10-10 22:21:49,069 - INFO - Processing 50 races from page 12
+2025-10-10 22:21:49,576 - INFO - Fetching races for California (CA) - page 13
+2025-10-10 22:21:50,401 - INFO - Processing 50 races from page 13
+2025-10-10 22:21:50,905 - INFO - Fetching races for California (CA) - page 14
+2025-10-10 22:21:51,527 - INFO - Processing 50 races from page 14
+2025-10-10 22:21:52,035 - INFO - Fetching races for California (CA) - page 15
+2025-10-10 22:21:52,653 - INFO - Processing 50 races from page 15
+2025-10-10 22:21:53,159 - INFO - Fetching races for California (CA) - page 16
+2025-10-10 22:21:53,851 - INFO - Processing 50 races from page 16
+2025-10-10 22:21:54,359 - INFO - Fetching races for California (CA) - page 17
+2025-10-10 22:21:54,970 - INFO - Processing 50 races from page 17
+2025-10-10 22:21:55,476 - INFO - Fetching races for California (CA) - page 18
+2025-10-10 22:21:56,445 - INFO - Processing 50 races from page 18
+2025-10-10 22:21:56,952 - INFO - Fetching races for California (CA) - page 19
+2025-10-10 22:21:57,576 - INFO - Processing 50 races from page 19
+2025-10-10 22:21:58,081 - INFO - Fetching races for California (CA) - page 20
+2025-10-10 22:21:58,938 - INFO - Processing 50 races from page 20
+2025-10-10 22:21:59,445 - INFO - Fetching races for California (CA) - page 21
+2025-10-10 22:22:00,076 - INFO - Processing 50 races from page 21
+2025-10-10 22:22:00,583 - INFO - Fetching races for California (CA) - page 22
+2025-10-10 22:22:01,175 - INFO - Processing 50 races from page 22
+2025-10-10 22:22:01,681 - INFO - Fetching races for California (CA) - page 23
+2025-10-10 22:22:02,274 - INFO - Processing 50 races from page 23
+2025-10-10 22:22:02,779 - INFO - Fetching races for California (CA) - page 24
+2025-10-10 22:22:03,303 - INFO - Processing 13 races from page 24
+2025-10-10 22:22:03,805 - INFO - Fetching races for California (CA) - page 25
+2025-10-10 22:22:04,140 - INFO - Total races found: 5567
+2025-10-10 22:22:04,140 - INFO - Future races: 4897
+2025-10-10 22:22:04,234 - INFO - Saved 4897 races to races.json
+2025-10-10 22:22:04,234 - INFO - Race fetching completed successfully!
